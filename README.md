@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/khankth2008/khattakair/_apis/build/status/khankth.ContosoAir?branchName=master)](https://dev.azure.com/khankth2008/khattakair/_build/latest?definitionId=1&branchName=master)
+
 
 
 
